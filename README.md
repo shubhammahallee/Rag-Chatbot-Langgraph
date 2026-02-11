@@ -29,6 +29,13 @@ PDF → Chunking → Embeddings → FAISS → Retriever Tool → LangGraph → L
 
 ---
 
+Project Structure
+├── streamlit_frontend.py
+├── langgraph_backend.py
+├── requirements.txt
+├── README.md
+
+
 ## ⚙️ Installation
 
 ```bash
