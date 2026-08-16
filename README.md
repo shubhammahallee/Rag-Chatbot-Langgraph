@@ -12,7 +12,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using:
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - PDF document ingestion
 - Text chunking
