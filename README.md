@@ -11,7 +11,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using:
 - Streamlit (Frontend)
 
 ---
-
+ 
 ## 🚀 Features 
 
 - PDF document ingestion
